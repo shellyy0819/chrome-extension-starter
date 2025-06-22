@@ -9,20 +9,6 @@ A lightweight Chrome Extension demo that injects a React-based floating UI into 
 - ⚡ Super fast build and hot reload via Vite
 - 🧼 Clean boilerplate to build upon
 
-## Project Structure
-
-├── public/ # Static assets and extension manifest
-│ └── manifest.json
-├── src/
-│ ├── content/ # UI injection logic
-│ ├── App.jsx 
-│ └── inject.js 
-│ └── styles.css 
-└── manifest.json
-└── README.md
-├── vite.config.js # Vite configuration
-└── package.json
-
 ## 🛠️ Getting Started
 
 ### 1. Install dependencies
