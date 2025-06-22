@@ -14,7 +14,7 @@ A lightweight Chrome Extension demo that injects a React-based floating UI into 
 ### 1. Install dependencies
 
 ```bash
-npm install
+1. npm install
 
 2. Run in development mode
 npm run dev
